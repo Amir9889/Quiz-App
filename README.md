@@ -1,2 +1,2 @@
 # Quiz-App
-![Page 1](https://i.imgur.com/DBRKasp.jpg)
+![Page 1](https://i.imgur.com/eVT4MtV.jpg)
