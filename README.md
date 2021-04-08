@@ -1,3 +1,4 @@
+Quizly is an Online and Q&A project implemented with Firebase :)
 # Quiz-App
 ![Page 1](https://i.imgur.com/eVT4MtV.jpg)
 ![Page 2](https://i.imgur.com/jOExuCp.jpg)
